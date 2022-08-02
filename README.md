@@ -7,7 +7,10 @@ guitar from scratch. I hope to create and contribute to some cool projects in th
 
 ## Stats
 
+![](https://raw.githubusercontent.com/joshua-hales/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/joshua-hales/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/joshua-hales/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/joshua-hales/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
