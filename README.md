@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a Computer Science student at Utah State University. I enjoy learning how things work in detail. My
+I am currently a Junior in Computer Science at Utah State University. I enjoy learning how things work in detail. My
 curiosity and determination assist me when I tackle ambitious projects such as when I designed and built an electric
 guitar from scratch. I hope to create and contribute to some cool projects in the future.
 
@@ -16,18 +16,27 @@ guitar from scratch. I hope to create and contribute to some cool projects in th
 
 ## What I Use
 
-### Languages
+### Languages and Frameworks
 
-I primarily use and am most comfortable with **Python** and **Java**. I use both for general programming. I also use
-Java for Android development. I am currently learning **JavaScript**.
+* Python
+* Java
+* JavaScript*
+* Django*
+* Kotlin*
+* Swift*
 
-I have dabbled in **Kotlin** and **Swift** and have read the language reference pages for both.
+**currently learning*
+
+I primarily use and am most comfortable with Python and Java for general programming. I also use Java for Android
+development. I am currently learning JavaScript and Django.
+
+I have dabbled in Kotlin and Swift and have read the language reference pages for both.
 
 
 ### Editors
 
-* Pycharm
-* IntelliJ
+* PyCharm
+* IntelliJ IDEA
 * Android Studio
 * Xcode
 
