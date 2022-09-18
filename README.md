@@ -1,8 +1,9 @@
 ## About Me
 
 I am currently a Junior in Computer Science at Utah State University. I enjoy learning how things work in detail. My
-curiosity and determination assist me when I tackle ambitious projects such as when I designed and built an electric
-guitar from scratch. I hope to create and contribute to some cool projects in the future.
+curiosity and determination assist me when I tackle ambitious projects. One such project was a custom electric guitar
+that I designed and built using tools including Autodesk Fusion 360 and CNC machinery. I hope to create and contribute
+to some cool projects in the future.
 
 
 ## Stats
@@ -20,15 +21,16 @@ guitar from scratch. I hope to create and contribute to some cool projects in th
 
 * Python
 * Java
-* JavaScript*
 * Django*
+* JavaScript*
+* Vue.js*
 * Kotlin*
 * Swift*
 
 **currently learning*
 
 I primarily use and am most comfortable with Python and Java for general programming. I also use Java for Android
-development. I am currently learning JavaScript and Django.
+development. I am currently learning Django, JavaScript, and Vue.js.
 
 I have dabbled in Kotlin and Swift and have read the language reference pages for both.
 
@@ -39,6 +41,20 @@ I have dabbled in Kotlin and Swift and have read the language reference pages fo
 * IntelliJ IDEA
 * Android Studio
 * Xcode
+
+
+### Version Control
+
+* Git
+* GitHub
+* GitLab
+
+
+### Miscellaneous
+
+* Bash
+* $\LaTeX$
+* Gradle
 
 
 ## Credits
