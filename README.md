@@ -5,6 +5,8 @@ curiosity and determination assist me when I tackle ambitious projects. One such
 that I designed and built using tools including Autodesk Fusion 360 and CNC machinery. I hope to create and contribute
 to some cool projects in the future.
 
+You can check out my blog [here](https://joshua-hales.github.io) for more details about things I do.
+
 
 ## Stats
 
@@ -21,7 +23,7 @@ to some cool projects in the future.
 
 * Python
 * Java
-* Django*
+* Django
 * JavaScript*
 * Vue.js*
 * Kotlin*
@@ -30,7 +32,7 @@ to some cool projects in the future.
 **currently learning*
 
 I primarily use and am most comfortable with Python and Java for general programming. I also use Java for Android
-development. I am currently learning Django, JavaScript, and Vue.js.
+development. I am currently learning JavaScript and Vue.js.
 
 I have dabbled in Kotlin and Swift and have read the language reference pages for both.
 
