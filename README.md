@@ -19,22 +19,24 @@ You can check out my blog [here](https://joshua-hales.github.io) for more detail
 
 ## What I Use
 
-### Languages and Frameworks
+### Languages, Frameworks, and Tools
 
-* Python
-* Java
-* Django
-* JavaScript*
-* Vue.js*
-* Kotlin*
-* Swift*
+- Git
+- Python
+- Java
+- Django
+- JavaScript*
+- Vue.js*
+- $\LaTeX$
+- Bash
+- Gradle*
 
-**currently learning*
+\**Currently learning*
 
-I primarily use and am most comfortable with Python and Java for general programming. I also use Java for Android
-development. I am currently learning JavaScript and Vue.js.
+I primarily use and am most comfortable with Python and Java for general programming.
+I also use Java for Android development. I am currently learning JavaScript and Vue.js.
 
-I have dabbled in Kotlin and Swift and have read the language reference pages for both.
+I have dabbled in other languages including Kotlin and Swift. I will also read language reference pages for fun.
 
 
 ### Editors
@@ -50,13 +52,6 @@ I have dabbled in Kotlin and Swift and have read the language reference pages fo
 * Git
 * GitHub
 * GitLab
-
-
-### Miscellaneous
-
-* Bash
-* $\LaTeX$
-* Gradle
 
 
 ## Credits
