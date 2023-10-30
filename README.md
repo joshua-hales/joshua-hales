@@ -1,7 +1,7 @@
-## About Me
+# About Me
 
 I am currently a Senior in Computer Science at Utah State University.
-I also work as a Software Development Intern at Dell Technologies.
+I worked as a Software Engineer Intern at Dell Technologies during the summer of 2023.
 I enjoy learning how things work in detail.
 My curiosity and determination assist me when I tackle ambitious projects. One such project was a custom electric guitar
 that I designed and built using tools including Autodesk Fusion 360 and CNC machinery. I hope to create and contribute
@@ -25,37 +25,40 @@ You can check out [my blog](https://joshua-hales.github.io) for more details abo
 
 - Git
 - Python
+    - Django
+    - FastAPI
+    - Pydantic
 - Java
-- Django
-- JavaScript*
-- Vue.js*
+- Kotlin
+- JavaScript
+    - Vue.js
 - $\LaTeX$
 - Bash
-- Gradle*
+- Gradle
 
-\**Currently learning*
+I primarily use and am most comfortable with Python for general programming.
+I also use Kotlin for Android development. I have worked with JavaScript and Vue.js.
 
-I primarily use and am most comfortable with Python and Java for general programming.
-I also use Java for Android development. I am currently learning JavaScript and Vue.js.
-
-I have dabbled in other languages including Kotlin and Swift.
+I have dabbled in other languages including Haskell and Swift.
 I enjoy reading documentation such as language reference pages to learn about their idioms and approaches to problems.
+I especially tend to enjoy languages and tools with good documentation.
 
 
 ### Editors
 
-* PyCharm
-* IntelliJ IDEA
-* Android Studio
-* Visual Studio Code
-* Xcode
+- JetBrains
+    - PyCharm
+    - IntelliJ IDEA
+    - Android Studio
+- Visual Studio Code
+- Xcode
 
 
 ### Version Control
 
-* Git
-* GitHub
-* GitLab
+- Git
+- GitHub
+- GitLab
 
 
 ## Credits
