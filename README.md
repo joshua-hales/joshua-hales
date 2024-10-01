@@ -1,11 +1,20 @@
 # About Me
 
-I am currently a Senior in Computer Science at Utah State University.
-I worked as a Software Engineer Intern at Dell Technologies during the summer of 2023.
-I enjoy learning how things work in detail.
-My curiosity and determination assist me when I tackle ambitious projects. One such project was a custom electric guitar
-that I designed and built using tools including Autodesk Fusion 360 and CNC machinery. I hope to create and contribute
-to some cool projects in the future.
+I'm a constant learner, always excited to dive into a new topic.
+
+Some of my current interests are:
+
+- Open Source Software 
+- Security
+- Privacy
+- Law
+
+I am currently a Software Engineer at Dell Technologies.
+I graduated with a BS in Computer Science from Utah State University.
+
+My curiosity and determination assist me when I tackle ambitious projects.
+One such project was a custom electric guitar that I designed and built using tools including Autodesk Fusion 360 and CNC machinery.
+I hope to create and contribute to some cool projects in the future.
 
 You can check out [my blog](https://joshua-hales.github.io) for more details about things I do.
 
@@ -23,7 +32,6 @@ You can check out [my blog](https://joshua-hales.github.io) for more details abo
 
 ### Languages, Frameworks, and Tools
 
-- Git
 - Python
     - Django
     - FastAPI
@@ -35,11 +43,13 @@ You can check out [my blog](https://joshua-hales.github.io) for more details abo
 - $\LaTeX$
 - Bash
 - Gradle
+- WebGL
 
 I primarily use and am most comfortable with Python for general programming.
-I also use Kotlin for Android development. I have worked with JavaScript and Vue.js.
+I use Kotlin for Android development.
+I have worked with JavaScript and Vue.js.
 
-I have dabbled in other languages including Haskell and Swift.
+I have dabbled in other languages including Haskell, Go, and Swift.
 I enjoy reading documentation such as language reference pages to learn about their idioms and approaches to problems.
 I especially tend to enjoy languages and tools with good documentation.
 
@@ -50,6 +60,7 @@ I especially tend to enjoy languages and tools with good documentation.
     - PyCharm
     - IntelliJ IDEA
     - Android Studio
+- Vim
 - Visual Studio Code
 - Xcode
 
